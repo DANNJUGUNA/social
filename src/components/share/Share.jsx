@@ -24,7 +24,7 @@ const Share = () => {
                         <span className='optionText'>Tag</span>
                     </div>
                     <div className="shareoption">
-                        <EmojiEmotions htmlColor='goldenrod' className='icon'/>
+                        <EmojiEmotions htmlColor='gold' className='icon'/>
                         <span className='optionText'>Feelings</span>
                     </div>
                     <div className="shareoption">
@@ -33,7 +33,7 @@ const Share = () => {
                     </div>
                     
                 </div>
-                <button className="post">Post</button>
+                <button className="postbutton">Post</button>
             </div>
         </div>
     </div>
